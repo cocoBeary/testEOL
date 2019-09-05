@@ -1,4 +1,5 @@
 首先check in一个中文文档，autocrlf=false，保住CRLF
+然后把autocrlf=true，修改此文档，push之后会把文档CRLF变成LF么？？
 
 
 哈哈
