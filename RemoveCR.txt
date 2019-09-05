@@ -1,5 +1,6 @@
 Initially check in CRLF with autocrlf=false, so we can check in CRLF into Git
 Edit something, autocrlf=true
+Add new line, autocrlf=true with .gitattributes
 
 
 
