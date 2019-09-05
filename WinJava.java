@@ -68,7 +68,7 @@ public class Job {
             child.setAge(13);
             child.gender = "female";
             ((MyClass) child).gender = "unknown";
-            System.out.println(child.gender); // get from child, member variable follow the reference type.
+            System.out.println(child.gender); // get from child, member variable follow the reference type. Change something
             System.out.println(((MyClass) child).gender); // get from parent, member variable follow the reference type.
             System.out.println(child.getAge()); // always get from child, member method follow the actual implementation
             System.out.println(((MyClass) child).getAge()); // always get from child, member method follow the actual implementation
