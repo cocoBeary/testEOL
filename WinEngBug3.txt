@@ -1,4 +1,5 @@
 First create an english file with autocrlf=false, expect to check in CRRF.
+Then edit english file with autocrlf=true, expect to remove CRLF
 
 
 
