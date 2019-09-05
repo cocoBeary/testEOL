@@ -1,0 +1,4 @@
+首先check in一个中文文档，autocrlf=false，保住CRLF
+
+
+哈哈
