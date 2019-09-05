@@ -1,0 +1,6 @@
+Initially check in CRLF with autocrlf=true, so we can check in CRLF into Git
+
+
+
+
+
