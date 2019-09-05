@@ -1,0 +1,4 @@
+Check in together with files containing Chinese will cause bug.
+
+
+
